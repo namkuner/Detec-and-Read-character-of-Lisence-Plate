@@ -1,0 +1,5 @@
+train : /content/drive/MyDrive/Deep_Learning/Yolov6/train_data/images/train
+val : /content/drive/MyDrive/Deep_Learning/Yolov6/train_data/images/train
+is_coco : False
+nc : 1
+names : ['License_plate']
