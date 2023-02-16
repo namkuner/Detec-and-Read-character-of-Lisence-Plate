@@ -1,4 +1,4 @@
-# nh-n-di-n-va-o-c-bi-n-s-xe-ma-y (Detect License Plate)
+# Nhan dien va read bien so xe may (Detect License Plate)
 Các bước thực hiện
 - Kiếm data: data này mình săn lùng khắp nơi! mãi mới thấy . Nó gồm 2 bộ:
 -- Bộ 1: Hình ảnh có xe, có biển số xe ở trong và đã được đánh dấu vị trí.
